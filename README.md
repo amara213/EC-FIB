@@ -14,9 +14,3 @@ Les pràctiques es desenvolupen en assembler utilitzant el simulador MIPS [MARS]
 Per assegurar un bon funcionament, es recomana revisar la configuració descrita al lloc web de l’assignatura.
 
 ---
-
-### 💡 Com pots col·laborar?  
-Totes les aportacions són benvingudes!  
-Pots:
-- Obrir una **issue** amb dubtes o propostes
-- Fer un **pull request** per afegir o millorar contingut
