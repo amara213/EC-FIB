@@ -1,10 +1,5 @@
 # EC-FIB
-[![Visitors](https://hits.dwyl.com/amara213/EC-FIB.svg?style=flat-square)](http://hits.dwyl.com/amara213/EC-FIB)  
-[![Contribuciones benvingudes](https://img.shields.io/badge/contribucions-benvingudes-brightgreen.svg?style=flat)](/CONTRIBUTING.md)  
-[![Estrelles a GitHub](https://img.shields.io/github/stars/amara213/EC-FIB.svg)](https://github.com/amara213/EC-FIB/stargazers)  
-[![Forks](https://img.shields.io/github/forks/amara213/EC-FIB.svg)](https://github.com/amara213/EC-FIB/network)  
-[![Mida del repositori](https://img.shields.io/github/repo-size/amara213/EC-FIB.svg)](https://github.com/amara213/EC-FIB)  
-[![Col·laboradors](https://img.shields.io/github/contributors/amara213/EC-FIB.svg)](https://github.com/amara213/EC-FIB/graphs/contributors)
+
 
 ---
 
